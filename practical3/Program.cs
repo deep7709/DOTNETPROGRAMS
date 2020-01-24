@@ -9,17 +9,8 @@ namespace practical3
     {
         static void Main(string[] args)
         {
-            public void bintodec()
-            {
-                String bin;
-                String dec;
-                bin = Console.ReadLine();
-
-                for(int i=0;i<bin.Length;i++)
-                {
-                    
-                
-            }
+           
+            
         }
     }
 }
