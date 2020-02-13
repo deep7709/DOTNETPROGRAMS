@@ -10,7 +10,7 @@ namespace practical4
         static void Main(string[] args)
         {
             Console.WriteLine("Enter The Infix");
-            string infix = "a+b";
+            string infix = Console.ReadLine();
             ClassA obj = new ClassA();
             string postfix = " ";
             obj.infixtopostfix(infix ,out postfix);
