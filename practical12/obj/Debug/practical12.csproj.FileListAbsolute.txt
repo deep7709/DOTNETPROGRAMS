@@ -1,0 +1,4 @@
+E:\Dotnet1\practicals\practical12\bin\practical12.dll
+E:\Dotnet1\practicals\practical12\bin\practical12.pdb
+E:\Dotnet1\practicals\practical12\obj\Debug\practical12.dll
+E:\Dotnet1\practicals\practical12\obj\Debug\practical12.pdb
