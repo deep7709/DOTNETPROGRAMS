@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,9 +26,9 @@ namespace practical_6
             //conversion from rupees to euro
             euro = 0.0127937M * rupees;
 
-            Console.WriteLine($"INR{rupees} = {dollor.ToString("C",new CultureInfo("en-US"))}");
-            Console.WriteLine($"INR{rupees} = {frank.ToString("C",new CultureInfo("de-CH"))}");
-            Console.WriteLine($"INR{rupees} = {euro.ToString("C", new CultureInfo("en-GB"))}");
+            Console.WriteLine("$INR{rupees} = {dollor.ToString("C",new CultureInfo("en-US"))}");
+            Console.WriteLine("$INR{rupees} = {frank.ToString("C",new CultureInfo("de-CH"))}");
+            Console.WriteLine("$INR{rupees} = {euro.ToString("C", new CultureInfo("en-GB"))}");
             Console.Read();
         }
     }
