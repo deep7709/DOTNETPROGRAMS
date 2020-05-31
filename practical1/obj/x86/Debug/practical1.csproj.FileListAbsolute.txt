@@ -2,3 +2,7 @@ E:\DOTNET\practicals\practicals\practical1\bin\Debug\practical1.exe
 E:\DOTNET\practicals\practicals\practical1\bin\Debug\practical1.pdb
 E:\DOTNET\practicals\practicals\practical1\obj\x86\Debug\practical1.exe
 E:\DOTNET\practicals\practicals\practical1\obj\x86\Debug\practical1.pdb
+E:\Dotnet1\practicals\practical1\bin\Debug\practical1.exe
+E:\Dotnet1\practicals\practical1\bin\Debug\practical1.pdb
+E:\Dotnet1\practicals\practical1\obj\x86\Debug\practical1.exe
+E:\Dotnet1\practicals\practical1\obj\x86\Debug\practical1.pdb

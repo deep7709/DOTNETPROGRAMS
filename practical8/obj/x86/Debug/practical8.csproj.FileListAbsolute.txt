@@ -1,0 +1,8 @@
+E:\Dotnet1\practicals\practical8\bin\Debug\practical8.exe
+E:\Dotnet1\practicals\practical8\bin\Debug\practical8.pdb
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.Form1.resources
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.Properties.Resources.resources
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.csproj.GenerateResource.Cache
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.exe
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.pdb
+E:\Dotnet1\practicals\practical8\obj\x86\Debug\practical8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Dotnet1\practicals\practical5\bin\Debug\practical5.exe
+E:\Dotnet1\practicals\practical5\bin\Debug\practical5.pdb
+E:\Dotnet1\practicals\practical5\obj\x86\Debug\practical5.exe
+E:\Dotnet1\practicals\practical5\obj\x86\Debug\practical5.pdb
+E:\Dotnet1\practicals\practical5\obj\x86\Debug\practical5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Dotnet1\practicals\cal\bin\Debug\cal.exe
+E:\Dotnet1\practicals\cal\bin\Debug\cal.pdb
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.Form1.resources
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.Properties.Resources.resources
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.csproj.GenerateResource.Cache
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.exe
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.pdb
+E:\Dotnet1\practicals\cal\obj\x86\Debug\cal.csprojResolveAssemblyReference.cache
